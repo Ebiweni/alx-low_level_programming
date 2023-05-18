@@ -10,8 +10,7 @@ int main(void)
 
 	alphabets = 'a';
 
-	while
-		(alphabets <= 'z');
+	while (alphabets <= 'z')
 	{
 		putchar(alphabets);
 		putchar('\n');
